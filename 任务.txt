@@ -1,7 +1,5 @@
 AW-结算期设置
 
-22222
-
 transfer_balance_date
 
 WholesaleBalanceDateController
